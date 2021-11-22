@@ -1,0 +1,16 @@
+Prática Proposta - Aula 01:
+☐ 1-Crie quatro variáveis, sendo elas com nomes de animais, quantidadede animais, peso dos animais e se eles são vacinados ou não.
+☐ 2-Comente seu código usando comentários longos e curtos.
+
+Prática Proposta - Aula 02:
+☐ 1-Crie três inputs que receba os três dados abaixo.
+    -Nome do tipo string
+    -Altura do tipo Float
+    -CPF do tipo inteiro
+☐ 2-Exiba através de um único print as três informações para o usuário.
+
+Prática Proposta - Aula 03:
+☐ 1-Crie uma variável número e atribua o valor 15 a ela.
+☐ 2-Crie um comando de condição para verificar se ela é == a 15,Menor que 15, maior que 15.
+☐ 3-Informar através de print a informação para o usuário.
+

@@ -43,3 +43,10 @@ Prática Proposta - Aula 08:
 Prática Proposta - Aula 09:
 1 - Crie uma função que receba dois parâmetros e realize sua soma, subtração, adição e multiplicação.
 2 - Informe esses resultados através de um print ao usuário dentro da função.
+
+Prática Proposta – Desafio Final:
+1 - Deve se criar 5 funções diferentes, sendo elas somar, subtrair, dividir, multiplicar e listar.
+2 - Deve se criar um MENU com if else sendo que o usuário escolha qual função deve acessar.
+3 - Ao ser escolhido a função, o usuário é direcionado a ela e insere os parâmetros que desejam realizar as operações.
+4 - As funções matemáticas devem receber os números para realizar a operação, realizar o cálculo e imprimir o resultado para o usuário.
+5 - Na função listar, deve-se criar uma lista de vantagens do python e imprimir para o usuário.

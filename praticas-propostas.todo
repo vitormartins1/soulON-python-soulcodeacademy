@@ -31,3 +31,11 @@ Prática Proposta - Aula 06B:
 ☐ 1 - Crie uma lista de móveis de uma casa;
 ☐ 2 - Adicione um elemento no final da lista;
 ☐ 3 - Remova um elemento pelo seu índice.
+
+Prática Proposta - Aula 08:
+1 - Crie um dicionário contendo dias da semana sendo dia1 , dia2, dia3... 
+    as chaves e o dia seu valor. Ex: “dia1”: “domingo”.
+2 - Remova dois dos últimos dias da semana.
+3 - Remova segunda-feira pela sua chave.
+4 - Imprima chaves e valores do dicionário.
+5 - Imprima o dicionário final.

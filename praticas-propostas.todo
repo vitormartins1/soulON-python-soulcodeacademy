@@ -27,7 +27,7 @@ Prática Proposta - Aula 06:
 ☐ 2 - A lista deve conter as letras separadas e em maiúsculas.
 ☐ 3 - Crie uma nova lista somente com as três últimas letras da palavra “PYTHON”.
 
-Prática Proposta - Aula 06B:
+Prática Proposta - Aula 07:
 ☐ 1 - Crie uma lista de móveis de uma casa;
 ☐ 2 - Adicione um elemento no final da lista;
 ☐ 3 - Remova um elemento pelo seu índice.
@@ -39,3 +39,7 @@ Prática Proposta - Aula 08:
 3 - Remova segunda-feira pela sua chave.
 4 - Imprima chaves e valores do dicionário.
 5 - Imprima o dicionário final.
+
+Prática Proposta - Aula 09:
+1 - Crie uma função que receba dois parâmetros e realize sua soma, subtração, adição e multiplicação.
+2 - Informe esses resultados através de um print ao usuário dentro da função.
